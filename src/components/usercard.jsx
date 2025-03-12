@@ -6,7 +6,7 @@ const usercard = () => {
         profilephoto:"NA",
         name:"Mahesh Babu",
         mail: "maheshbabu@gmail.com",
-        phonenumeber: "4544845432",
+        phonenumber: "4544845432",
         address: "India"
     }
   return (
